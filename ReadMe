@@ -1,0 +1,11 @@
+Main.py script contain the code to label the image. 
+
+Dependencies : 
+Pandas 
+Open Cv
+
+image_files = path of the folder that contains the images
+image_extensions = ['.jpg', '.jpeg', '.png', '.gif']
+these are available extension, you can add whatever imageextension you want
+
+
